@@ -1,4 +1,4 @@
 # nuxt-validate
-ajudando a comunidade
+#ajudandoacomunidade
 ---
 fazendo a validação dos dados usando a diretiva v-validate
